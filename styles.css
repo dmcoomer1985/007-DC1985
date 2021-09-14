@@ -1,0 +1,42 @@
+p {
+    font-family: verdana;
+    font-size:   8px;
+  }
+  body {
+    background-color: Salmon;
+  }
+  h1{
+    color: Green;
+    text-align: Center;
+  }
+  table{
+    font-family: verdana;
+    font-size:   8px;
+  }
+  h3{
+    color: Red
+  }
+  
+  h3{
+    color:purple
+  }
+    
+  p  {
+    font-family: verdana;
+    font-size:   10px;
+  }
+  
+  h2{
+    color: purple;
+  }
+  
+  #red {
+    color: red;
+  }
+  
+  #orange {
+    color: #fc5e03;
+  }
+  #blue {
+    color: blue;
+  }
