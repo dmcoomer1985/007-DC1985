@@ -1,6 +1,6 @@
 p {
     font-family: verdana;
-    font-size:   8px;
+    font-size:   12px;
   }
   body {
     background-color: Salmon;
@@ -16,14 +16,17 @@ p {
   h3{
     color: Red
   }
-  
-  h3{
-    color:purple
-  }
     
   p  {
     font-family: verdana;
     font-size:   10px;
+  }
+  .small-text {
+    font-size: 8px
+  }
+  
+  .small-list {
+    font-size: 10px;
   }
   
   h2{
@@ -39,4 +42,16 @@ p {
   }
   #blue {
     color: blue;
+  }
+  
+  #gold {
+    color: gold;
+  }
+  
+  #cyan {
+    color: #03d7fc;
+  }
+  
+  #silver {
+    color: silver;
   }
